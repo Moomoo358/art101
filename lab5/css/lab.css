@@ -1,0 +1,26 @@
+h1 {
+  color: purple ;
+  font-size: 200%;
+}
+
+p {
+    font-family: "times new roman";
+    text-indent: 20px;
+    margin-left: 10px;
+}
+
+#content {
+  background-color: #cccccc;
+  width: 1000px;
+  min-height: 1000px;
+  padding: 20px;
+  margin: 20px;
+  border: dashed 10px #444444;
+  font-size: 20px;
+}
+#buick{
+    float: right;
+    margin:0 0 0 15px;
+    width:200px;
+    min-height: 200px;
+  }
