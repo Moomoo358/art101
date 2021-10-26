@@ -1,0 +1,25 @@
+h1 {
+  color: Pink ;
+  font-size: 200%;
+}
+
+p {
+    font-family: "times new roman";
+    text-indent: 20px;
+    margin-left: 10px;
+}
+
+#content {
+  background-color: darkgrey;
+  width: 1000px;
+  min-height: 1000px;
+  padding: 20px;
+  margin: 20px;
+  border: dotted 10px #444444;
+  font-size: 20px;
+}
+#name {
+  float: right;
+  width:300px;
+  min-height: 300px;
+}
