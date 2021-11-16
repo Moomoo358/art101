@@ -1,0 +1,23 @@
+#hogwarts {
+  font-family: fantasy;
+  color: beige
+
+}
+
+.sectionbox {
+  border: dashed 1px pink;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 10px;
+}
+
+
+#content {
+  background-color: grey;
+  color: black;
+  min-height: 80vh;
+  padding: 50px;
+  margin: 20px;
+  border: double 15px white;
+  font-size: 20px;
+}
